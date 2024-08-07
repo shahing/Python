@@ -5,8 +5,3 @@ def chai(n):
     
 chai(4)
 chai("lemon tea")
-
-    
-    
-    
-    
