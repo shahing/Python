@@ -1,0 +1,26 @@
+gshahin@PL-UK-NFC4K21PCW Python % python3
+Python 3.12.4 (v3.12.4:8e8a4baf65, Jun  6 2024, 17:33:18) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> username  = "Shahin"
+>>> username
+'Shahin'
+>>> username = "ChaiCode"
+>>> username
+'ChaiCode'
+>>> 
+>>> num = 10
+>>> num1 = num
+>>> num
+10
+>>> num1
+10
+>>> num =15
+>>> num1
+10
+>>> 
+
+
+
+
+
+
